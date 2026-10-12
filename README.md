@@ -6,8 +6,7 @@ Signed Android builds of **Hermes Mobile Client**, an app that talks directly to
 This repository holds **release builds only**. The source lives in a private repository, and
 releases are published here by CI so that the app can check for updates without a token.
 
-> Status: no release published yet. The first one will appear under
-> [Releases](../../releases) as `v0.1.0`.
+> Latest: [v0.1.0](../../releases/tag/v0.1.0).
 
 ## What the app does
 

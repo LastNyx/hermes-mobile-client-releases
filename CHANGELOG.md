@@ -3,7 +3,7 @@
 All notable changes to Hermes Mobile Client. Versions follow `major.minor.patch`, and a release tag is
 `v<version>`.
 
-## [Unreleased] (planned first release: 0.1.0)
+## [0.1.0] - 2026-10-12
 
 ### Added
 - Gateway registry: add, edit, remove and switch gateways; tokens stored per gateway.
